@@ -6,3 +6,7 @@ constructor(statuscode,data,message="sucess"){
     this.message=message
 }
 }
+
+
+
+export default apiresponse
